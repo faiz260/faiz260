@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React and Typescript Projects.
 - 🌱 I’m currently learning JAMstack.
 
-- 📫 How to reach me: [Facebook](https://www.facebook.com/M.faiz.raza.qadri.25/)
+- 📫 How to reach me: [my website](https://www.faizshahnawaz.com/)
 
 
