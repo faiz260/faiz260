@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ✨ I'm Faiz Shahnawaz
 -    I'm a Front End Web Developer
 - 🔭 I’m currently working on React and Typescript Projects.
-- 🌱 I’m currently learning latest technologies and tools.
+- 🌱 I’m currently learning JAMstack.
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/M.faiz.raza.qadri.25/)
 
